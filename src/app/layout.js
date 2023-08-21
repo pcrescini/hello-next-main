@@ -7,7 +7,7 @@ function RootLayout({ children }) {
     <html lang="en">
       <body>
         {children}
-
+      <footer> &copy; 2023 Paul C Crescini</footer>
       </body>
     </html>
   );
